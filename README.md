@@ -93,7 +93,7 @@
 - 🔗 **CricPulse**  
   https://cric-pulse-weld.vercel.app/
 
-  - 🔗 **FanBattle**  
+- 🔗 **FanBattle**  
   https://fan-battle.vercel.app/
 
 - 🔗 **Finexora Capital**  
