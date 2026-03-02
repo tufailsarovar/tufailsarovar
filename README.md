@@ -10,11 +10,18 @@
 
 ---
 
-## 🚀 About Me
-- 💻 Full Stack MERN Developer
-- 🔐 Strong in Authentication, Secure Payments & RBAC Systems
-- 📦 Building Scalable Full-Stack Applications
-- ⚡ Passionate about Backend Architecture & Real-Time Systems
+## 👨‍💻 About Me
+
+<p align="center">
+Full Stack MERN Developer from India 🇮🇳 <br/>
+B.Tech CSE (2022–2026) <br/>
+Focused on Scalable Backend Systems & Secure Architectures <br/>
+Building Real-World Production Applications 🚀
+</p>
+
+<p align="center">
+🔐 Authentication • 💳 Payments • 📊 Dashboards • ⚡ Real-Time Systems
+</p>
 
 ---
 
