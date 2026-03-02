@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tufail Sarovar</h1>
-<h3 align="center">Full Stack MERN Developer | Building Scalable Platforms 🚀</h3>
+<h1 align="center">Hi , I'm Tufail Sarovar</h1>
+<h3 align="center">Full Stack MERN Developer | Building Scalable Platforms</h3>
 
 <p align="center">
   <a href="https://tufail-sarovar.vercel.app/">Portfolio</a> •
@@ -10,37 +10,37 @@
 
 ---
 
-# 🧠 Tech Stack
+# Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
 
 ---
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,mui,bootstrap,tailwind" />
 </p>
 
 ---
 
-### ⚙️ Backend
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ---
 
-### 🗄️ Database
+### Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ---
 
-### 🔐 Authentication & Security
+### Authentication & Security
 <p>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/bcrypt-4A154B?style=for-the-badge" />
@@ -50,14 +50,14 @@
 
 ---
 
-### 💳 Payment Integration
+### Payment Integration
 <p>
   <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
 </p>
 
 ---
 
-### 🔗 API & Data Handling
+### API & Data Handling
 <p>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
@@ -67,7 +67,7 @@
 
 ---
 
-### 🛠️ Tools & Deployment
+### Tools & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,npm,vercel" />
 </p>
@@ -79,7 +79,7 @@
 
 ---
 
-# 🚀 Projects
+# Projects
 
 - 🔗 **CodeX**  
   https://www.projectcodex.in/
@@ -93,6 +93,9 @@
 - 🔗 **CricPulse**  
   https://cric-pulse-weld.vercel.app/
 
+  - 🔗 **FanBattle**  
+  https://fan-battle.vercel.app/
+
 - 🔗 **Finexora Capital**  
   https://finexora-capital.vercel.app/
 
@@ -104,7 +107,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tufailsarovar&show_icons=true&theme=tokyonight" />
@@ -114,5 +117,5 @@
 
 ---
 
-# 🔥 Motto
+# Motto
 > Build Complete Systems. Not Just Features.
