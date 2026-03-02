@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tufail Sarovar</h1>
-<h3 align="center">Full Stack MERN Developer | B.Tech CSE (Final Year) | Building Scalable Web Apps 🚀</h3>
+<h3 align="center">Full Stack MERN Developer | B.Tech CSE (Final Year) | Building Scalable Platforms 🚀</h3>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Final Year B.Tech CSE Student  
 - 💻 Full Stack MERN Developer  
-- 🛒 Founder of **The295** (MERN Dropshipping Startup)  
-- 🏪 Building **CodeX** (Digital Project Store Platform)  
-- 🖼️ Creator of **CodeX Uploader** (Image Hosting Platform)  
-- 🎯 Focused on Backend Architecture, Auth Systems & Scalable Apps  
-- ⚡ Love building complete end-to-end systems  
+- 🏆 Building **FanBattle** (Social Media Leaderboard Platform)  
+- 📈 Building **StockPulse** (Market & Data Driven Platform)  
+- 🎯 Focused on Backend Architecture, Authentication & Scalable Systems  
+- ⚡ Love building complete end-to-end products  
 
 ---
 
@@ -35,25 +34,20 @@
 
 ## 🏗️ Current Projects
 
-### 🛍️ The295
-MERN based Dropshipping Platform  
-✔ Admin Controlled  
-✔ Order Automation  
-✔ Email + WhatsApp Integration  
-✔ Roposo Clout Integration  
+### 🏆 FanBattle
+Social leaderboard platform based on likes ranking  
+✔ Subscriber & Non-Subscriber System  
+✔ Global Leaderboard  
+✔ Weekly / Monthly / Daily Insights  
+✔ Searchable Profiles  
+✔ Rank Tier System  
 
-### 🛒 CodeX
-Digital Store for Selling Coding Projects  
-✔ Secure Downloads  
-✔ Payment Integration  
-✔ Admin Panel  
-✔ Category Filtering  
-
-### 🖼️ CodeX Uploader
-Free Image Hosting Platform  
-✔ Auth Based Upload  
-✔ Shareable Links  
-✔ Secure Storage  
+### 📊 StockPulse
+Market & analytics based platform  
+✔ Data Tracking  
+✔ Insights Dashboard  
+✔ Real-time Monitoring  
+✔ Scalable Backend Architecture  
 
 ---
 
@@ -69,16 +63,13 @@ Free Image Hosting Platform
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/tufailsarovar/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://twitter.com/YOUR_TWITTER" target="blank">
+<a href="https://x.com/tufailsarovar" target="blank">
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:tufailsarovar8@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
@@ -87,22 +78,3 @@ Free Image Hosting Platform
 
 ## 🔥 Motto
 > "Build Complete Systems. Not Just Features."
-
----
-
-### ⚠️ Important:
-Replace:
-- `YOUR_USERNAME`
-- Social links
-- Email
-
----
-
-If you want, I can now:
-- Make it more premium 🔥  
-- Add animated typing header  
-- Add contribution graph snake  
-- Make it startup-founder style  
-- Make it clean FAANG-style professional  
-
-Tell me which style you want 👌
