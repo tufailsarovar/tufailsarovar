@@ -19,84 +19,88 @@
 
 ---
 
-# 🧠 Technical Skills
+# 🧠 Tech Stack
 
 ### 💻 Languages
-Java • Python • JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
 
 ### 🎨 Frontend
-HTML • CSS • JavaScript • ReactJS • Material UI • Bootstrap • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mui,bootstrap,tailwind" />
+</p>
 
 ### ⚙️ Backend
-NodeJS • ExpressJS • EJS
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄️ Database
-MongoDB • MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### 🔐 Auth & Security
+<p>
+<img src="https://skillicons.dev/icons?i=jwt" />
+</p>
 JWT • bcrypt • RBAC • Auth0
 
-### 💳 Payment Integration
+### 💳 Payment
 Razorpay
 
-### 🔗 API & Data Handling
-RESTful APIs • JSON • Axios • Fetch API
-
 ### 🛠️ Tools
-Git • GitHub • Postman • npm • Vercel • Render • GoDaddy (DNS & Domain)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,npm,vercel" />
+</p>
+Render • GoDaddy (DNS & Domain)
 
 ---
 
 # 🏗️ Projects
 
-## 🛒 CodeX
-Live: https://www.projectcodex.in/  
-Code: https://github.com/tufailsarovar/CodeX  
+## 🛒 CodeX  
+🔗 Live: https://www.projectcodex.in/  
+💻 Code: https://github.com/tufailsarovar/CodeX  
 
-- MERN Digital Marketplace for coding resources  
-- JWT Authentication  
-- Secure Razorpay Payment Integration  
-- Automated Email with Encrypted Download Links  
-- Persistent Cart & Order History  
+- MERN Digital Marketplace  
+- JWT Auth + Razorpay Integration  
+- Encrypted Download Links  
 - Admin Dashboard  
-- Cloud Deployment with Custom Domain  
 
 ---
 
-## 📊 StockPulse
-Live: https://stockpulse-six.vercel.app/  
-Code: https://github.com/tufailsarovar/StockPulse  
+## 📊 StockPulse  
+🔗 Live: https://stockpulse-six.vercel.app/  
+💻 Code: https://github.com/tufailsarovar/StockPulse  
 
 - MERN Stock Dashboard  
 - Auth0 Authentication  
-- RESTful APIs  
-- Dynamic Stock Data  
-- Responsive React UI  
+- REST APIs  
+- Dynamic Data System  
 
 ---
 
-## 🎥 MeetPulse
-Live: https://meet-pulse-tufail.vercel.app/  
-Code: https://github.com/tufailsarovar/MeetPulse  
+## 🎥 MeetPulse  
+🔗 Live: https://meet-pulse-tufail.vercel.app/  
+💻 Code: https://github.com/tufailsarovar/MeetPulse  
 
-- Real-Time Video Communication Platform  
+- Real-Time Video Calling  
+- Live Chat  
 - Secure Authentication  
-- Live Audio/Video Calls  
-- Real-Time Chat  
 - Scalable Architecture  
 
 ---
 
-## 📚 BookPulse
-Live: https://book-pulse-two.vercel.app/  
-Code: https://github.com/tufailsarovar/BookPulse  
+## 📚 BookPulse  
+🔗 Live: https://book-pulse-two.vercel.app/  
+💻 Code: https://github.com/tufailsarovar/BookPulse  
 
-- MERN Full-Stack Application  
-- JWT Authentication  
-- Razorpay Payment Integration  
-- Role-Based Admin Dashboard  
-- RESTful APIs  
-- Cloud Deployment  
+- MERN Full-Stack App  
+- JWT Auth  
+- Razorpay Payment  
+- Role-Based Admin  
 
 ---
 
@@ -105,11 +109,10 @@ Code: https://github.com/tufailsarovar/BookPulse
 ### MERN Stack Developer Intern  
 Ainwik Infotech (Apr 2025 – Oct 2025)
 
-- Developed full-stack MERN applications  
-- Integrated RESTful APIs  
-- Designed responsive UIs  
-- Debugging, Testing & Deployment  
-- Version Control & Team Collaboration  
+- Built full-stack MERN apps  
+- Integrated REST APIs  
+- Debugging & Deployment  
+- Team Collaboration  
 
 ---
 
