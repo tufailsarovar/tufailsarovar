@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tufail Sarovar</h1>
-<h3 align="center">Full Stack MERN Developer | B.Tech CSE (2022–2026) | Building Scalable Platforms 🚀</h3>
+<h3 align="center">Full Stack MERN Developer | Building Scalable Platforms 🚀</h3>
 
 <p align="center">
   <a href="https://tufail-sarovar.vercel.app/">Portfolio</a> •
@@ -12,7 +12,6 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE – Accurate Institute of Management and Technology (2022–2026)
 - 💻 Full Stack MERN Developer
 - 🔐 Strong in Authentication, Secure Payments & RBAC Systems
 - 📦 Building Scalable Full-Stack Applications
@@ -57,14 +56,23 @@
 </p>
 
 ### 💳 Payment
-Razorpay
 
-### 🛠️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,npm,vercel" />
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
 </p>
-Render • GoDaddy (DNS & Domain)
 
+---
+
+### 🛠️ Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,npm,vercel" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge" />
+</p>
 ---
 
 # 🚀 Projects
