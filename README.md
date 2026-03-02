@@ -1,9 +1,9 @@
 <p align="center">
-  <b style="font-size:32px;">Hi, I'm Tufail Sarovar</b>
+  <b style="font-size:42px;">Hi, I'm Tufail Sarovar</b>
 </p>
 
 <p align="center">
-  <b style="font-size:18px;">
+  <b style="font-size:16px;">
     Full Stack MERN Developer | Building Scalable Platforms
   </b>
 </p>
@@ -14,8 +14,6 @@
   <a href="https://www.linkedin.com/in/tufailsarovar/">LinkedIn</a> •
   <a href="https://x.com/tufailsarovar">X (Twitter)</a>
 </p>
-
-<hr/>
 
 ---
 
