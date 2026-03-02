@@ -1,12 +1,5 @@
-<p align="center">
-  <b style="font-size:42px;">Hi, I'm Tufail Sarovar</b>
-</p>
-
-<p align="center">
-  <b style="font-size:16px;">
-    Full Stack MERN Developer | Building Scalable Platforms
-  </b>
-</p>
+<h1 align="center">Hi , I'm Tufail Sarovar</h1>
+<h3 align="center">Full Stack MERN Developer | Building Scalable Platforms</h3>
 
 <p align="center">
   <a href="https://tufail-sarovar.vercel.app/">Portfolio</a> •
