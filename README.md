@@ -2,6 +2,7 @@
 <h3 align="center">Full Stack MERN Developer | B.Tech CSE (2022–2026) | Building Scalable Platforms 🚀</h3>
 
 <p align="center">
+  <a href="https://tufail-sarovar.vercel.app/">Portfolio</a> •
   <a href="mailto:tufailsarovar8@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/tufailsarovar/">LinkedIn</a> •
   <a href="https://x.com/tufailsarovar">X (Twitter)</a> •
@@ -42,10 +43,18 @@
 </p>
 
 ### 🔐 Auth & Security
-<p>
-<img src="https://skillicons.dev/icons?i=jwt" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jwt" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
-JWT • bcrypt • RBAC • Auth0
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/bcrypt-4A154B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RBAC-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+</p>
 
 ### 💳 Payment
 Razorpay
