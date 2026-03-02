@@ -5,8 +5,7 @@
   <a href="https://tufail-sarovar.vercel.app/">Portfolio</a> •
   <a href="mailto:tufailsarovar8@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/tufailsarovar/">LinkedIn</a> •
-  <a href="https://x.com/tufailsarovar">X (Twitter)</a> •
-  <a href="https://github.com/tufailsarovar">GitHub</a>
+  <a href="https://x.com/tufailsarovar">X (Twitter)</a>
 </p>
 
 ---
@@ -85,6 +84,8 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge" />
 </p>
+
+---
 
 # 🚀 Projects
 
