@@ -58,49 +58,28 @@ Render • GoDaddy (DNS & Domain)
 
 ---
 
-# 🏗️ Projects
+# 🚀 Projects
 
-## 🛒 CodeX  
-🔗 Live: https://www.projectcodex.in/  
-💻 Code: https://github.com/tufailsarovar/CodeX  
+- 🔗 **CodeX**  
+  https://www.projectcodex.in/
 
-- MERN Digital Marketplace  
-- JWT Auth + Razorpay Integration  
-- Encrypted Download Links  
-- Admin Dashboard  
+- 🔗 **BookPulse**  
+  https://book-pulse-two.vercel.app/
 
----
+- 🔗 **Foodify**  
+  https://foodify-myjz.vercel.app/
 
-## 📊 StockPulse  
-🔗 Live: https://stockpulse-six.vercel.app/  
-💻 Code: https://github.com/tufailsarovar/StockPulse  
+- 🔗 **CricPulse**  
+  https://cric-pulse-weld.vercel.app/
 
-- MERN Stock Dashboard  
-- Auth0 Authentication  
-- REST APIs  
-- Dynamic Data System  
+- 🔗 **Finexora Capital**  
+  https://finexora-capital.vercel.app/
 
----
+- 🔗 **Image Uploader**  
+  https://img-uploader-tufail.vercel.app/
 
-## 🎥 MeetPulse  
-🔗 Live: https://meet-pulse-tufail.vercel.app/  
-💻 Code: https://github.com/tufailsarovar/MeetPulse  
-
-- Real-Time Video Calling  
-- Live Chat  
-- Secure Authentication  
-- Scalable Architecture  
-
----
-
-## 📚 BookPulse  
-🔗 Live: https://book-pulse-two.vercel.app/  
-💻 Code: https://github.com/tufailsarovar/BookPulse  
-
-- MERN Full-Stack App  
-- JWT Auth  
-- Razorpay Payment  
-- Role-Based Admin  
+- 🔗 **MeetPulse**  
+  https://meet-pulse-tufail.vercel.app/
 
 ---
 
