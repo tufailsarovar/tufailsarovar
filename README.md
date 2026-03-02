@@ -81,28 +81,28 @@ Tools & Deployment
 
 Projects
 
-- 🔗 **CodeX**  
+- **CodeX**  
   https://www.projectcodex.in/
 
-- 🔗 **BookPulse**  
+- **BookPulse**  
   https://book-pulse-two.vercel.app/
 
-- 🔗 **Foodify**  
+- **Foodify**  
   https://foodify-myjz.vercel.app/
 
-- 🔗 **CricPulse**  
+- **CricPulse**  
   https://cric-pulse-weld.vercel.app/
 
-- 🔗 **FanBattle**  
+- **FanBattle**  
   https://fan-battle.vercel.app/
 
-- 🔗 **Finexora Capital**  
+- **Finexora Capital**  
   https://finexora-capital.vercel.app/
 
-- 🔗 **Image Uploader**  
+- **Image Uploader**  
   https://img-uploader-tufail.vercel.app/
 
-- 🔗 **MeetPulse**  
+- **MeetPulse**  
   https://meet-pulse-tufail.vercel.app/
 
 ---
