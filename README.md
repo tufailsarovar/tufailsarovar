@@ -103,9 +103,6 @@ Projects
 - **FanBattle**  
   https://fan-battle.vercel.app/
 
-- **Finexora Capital**  
-  https://finexora-capital.vercel.app/
-
 - **Image Uploader**  
   https://img-uploader-tufail.vercel.app/
 
