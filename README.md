@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <b style="font-size:18px;">
-    Full Stack MERN Developer | Building Scalable Platforms
-  </b>
-</p>
-
-<p align="center">
   <a href="https://tufail-sarovar.vercel.app/">Portfolio</a> •
   <a href="mailto:tufailsarovar8@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/tufailsarovar/">LinkedIn</a> •
